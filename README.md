@@ -1,5 +1,7 @@
 [![npm](https://img.shields.io/npm/v/capsize.svg?style=for-the-badge)](https://www.npmjs.com/package/capsize)
 
+**See also:** https://news.ycombinator.com/item?id=26633148
+
 <br/>
 
 <img src="site/src/images/capsize-header.png" alt="Capsize" title="Capsize" width="443px" />
